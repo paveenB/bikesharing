@@ -15,8 +15,10 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 * 60 min or less is the length of time that bikes are checked out for all riders.
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Bikes%20Checked%20Out%20All.png)
 
-* 
+* There are more males that check about bikes compared to female riders.
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Bikes%20Checked%20Out%20Gender.png)
+
+* 
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Trips%20by%20Weekday%20each%20hour.png)
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Trips%20by%20Gender%20Weekday%20each%20Hour.png)
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Bike%20Trips%20by%20Gender%20Weekday%20each%20Usertype.png)
