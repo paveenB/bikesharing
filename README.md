@@ -27,6 +27,10 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 * Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Bike%20Trips%20by%20Gender%20Weekday%20each%20Usertype.png)
 
+[ling to dashboard](https://public.tableau.com/views/NYC_Bike_16490795824860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[link to dashbaord](https://public.tableau.com/views/NYC_Bike_Challenge_16491955218010/BikesCheckedOutAll?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Summary:
 
 Citi Bike trips are short, less than one hour. Subscribers are the main business model. When looking at subscriber rate and duration of use, men tend to use the program more. Having a bike repair plan is a must especially for the bikes used in the most popular areas. More visualizations can be performed with the given data set are an analysis of times of bike usage and age range. It would also help to look at how far do bikers travel and which stations are most popular. A closer examination of the station locations might provide clarity on why more women aren't using the bike-share program.
