@@ -27,9 +27,13 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 * Subscribers ride the bikes more, with male subscribers riding the most on Thursday.
 ![This is an image](https://github.com/paveenB/bikesharing/blob/main/Images/Bike%20Trips%20by%20Gender%20Weekday%20each%20Usertype.png)
 
-[ling to dashboard](https://public.tableau.com/views/NYC_Bike_16490795824860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+** For more information:
 
-[link to dashbaord](https://public.tableau.com/views/NYC_Bike_Challenge_16491955218010/BikesCheckedOutAll?:language=en-US&:display_count=n&:origin=viz_share_link)
+Please see the links below to find more information from the data:
+
+[Link to dashboard 1](https://public.tableau.com/views/NYC_Bike_16490795824860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+[lLink to dashbaord 2](https://public.tableau.com/views/NYC_Bike_Challenge_16491955218010/BikesCheckedOutAll?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Summary:
 
