@@ -31,9 +31,9 @@ Citi Bike is a privately owned public bicycle sharing system serving the New Yor
 
 Please see the links below to find more information from the data:
 
-[Link to dashboard 1](https://public.tableau.com/views/NYC_Bike_16490795824860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Link to Dashboard 1](https://public.tableau.com/views/NYC_Bike_16490795824860/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-[lLink to dashbaord 2](https://public.tableau.com/views/NYC_Bike_Challenge_16491955218010/BikesCheckedOutAll?:language=en-US&:display_count=n&:origin=viz_share_link)
+[lLink to Dashbaord 2](https://public.tableau.com/views/NYC_Bike_Challenge_16491955218010/BikesCheckedOutAll?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Summary:
 
